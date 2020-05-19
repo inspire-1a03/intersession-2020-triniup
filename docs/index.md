@@ -4,11 +4,11 @@ Welcome to your project page for Electronics for the Rest of Us. You'll use this
 A place for each deliverable has been created below for you in this markdown document. 
 Note that comments (such as this) will not appear in the final markdown document (which you can view with the "Preview" button).
 -->
-
+**INSPIRE 1A03           
 
 ## Day 1: Reflection
 <!--
-In this section, provide a ~250 word reflection on your first day of the module, and discuss why you're interested in this module and what you hope to take away from it.
+            Today was the first day of Module 3, Electronics and the rest of us. We have been tasked with taking a basic Arduino set and transforming it into a Weather station. While the process has been simplified, it still involves many parts and today we focused on getting an introductory grasp on GitHub and how the coding aspect will work. We began by learning the basics of GitHub - what is does, what its advantages are and what uses the pgram could have. It was quite interesting , i mean; if you were to focus on the big picture applications it would actually be quite handy as GitHub allows to save versions of your program,book, project and places markers for all and alny revisions or versions that you make. This is ideal for those who have specific needs and when troubleshooting - the software allows the user to go line by line or version by version or even revision by revision to see where you would have made any mistakes and then correct. Or even go back and redo altogether while preserving any necessary components you want. i could se a real world application in Medical Sciences or somehting like that where you would need a program to work flawlessly under strict controls while adhereing to ethical standards or laws. i am raelly excited to see where this journey will lead us and how we will exactly get there.   
 
 You're also asked to insert a photo that represents your accomplishments on your first day. Take a photo of you working or one of your circuits and upload it to the /docs/images/ folder of this repository. Then, insert your photo into your document by modifying the markdown example that has been inserted below.
 -->
