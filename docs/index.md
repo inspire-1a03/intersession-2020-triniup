@@ -13,7 +13,7 @@ Note that comments (such as this) will not appear in the final markdown document
 You're also asked to insert a photo that represents your accomplishments on your first day. Take a photo of you working or one of your circuits and upload it to the /docs/images/ folder of this repository. Then, insert your photo into your document by modifying the markdown example that has been inserted below.
 -->
 
-![alt text](https://github.com/inspire-1a03/intersession-2020-triniup/edit/master/docs/images/image1.jpeg
+![alt text](https://github.com/inspire-1a03/intersession-2020-triniup/blob/master/docs/images/image1.jpeg)
 
 ## Day 2: Results
 <!--
