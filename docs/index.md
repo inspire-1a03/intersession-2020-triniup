@@ -38,7 +38,6 @@ Finally, record a short (30 second) video of a 'product pitch' for your device.
 - Upload the video to Youtube, and use the sample code below to embed your video.
 -->
 
-
 <!--
 Below is a general markdown table template. 
 You can find more information at these links: 
@@ -47,9 +46,9 @@ You can find more information at these links:
 -->
 | Feature | Description | Other Notes |
 |---------|-------------|-------------|
-|         |             |             |
-|         |             |             |
-|         |             |             |
+|temp > 30|if temp rises|LED goes red |
+|>22 ,< 30|if temp stays|LED goes green|
+|delay    |1 second interval|             |
 |         |             |             |
 
 
