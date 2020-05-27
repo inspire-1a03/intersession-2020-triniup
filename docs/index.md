@@ -60,7 +60,7 @@ Note that this video won't show when previewing the document in GitHub--it only 
 - Note that you may want to adjust the width and height parameters to make it fit well in your webpage
 -->
 
-/* <iframe width="667" height="375" src="https://www.youtube.com/embed/kBAd22ReUfA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> *\
+https://www.youtube.com/watch?v=kBAd22ReUfA
 
 
 ## Final reflection & summary
